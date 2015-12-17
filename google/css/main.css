@@ -1,0 +1,23 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: right;
+}
+li {
+    float: right;
+	display: block;
+    padding: 8px;
+
+}
+img {
+	 margin:auto;
+     position: absolute;
+     top:0px; right:0; bottom:0; left:0;
+}
+input {
+     position: relative;
+     top: 380px; left: 370px; right: auto; bottom: auto;
+     width: 600px;
+    
+}
